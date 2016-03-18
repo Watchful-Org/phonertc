@@ -11,7 +11,9 @@ WebRTC for Cordova apps!
 * Simple JavaScript API
 * Video & Voice calls
 * Group calls
-* Renegotiation (Mute, Hold, etc) 
+* Renegotiation (Mute, Hold, etc)
+
+Want to learn build and install? [See installation.](./INSTALLATION.md)
 
 Want to learn more? [See the wiki.](https://github.com/alongubkin/phonertc/wiki)
 
